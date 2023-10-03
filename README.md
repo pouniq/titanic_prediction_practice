@@ -1,2 +1,2 @@
 # titanic_prediction_practice
-i want to practice working with data with this simple dataset
+how wealth and gender influence the survival of the titanic passengers.
